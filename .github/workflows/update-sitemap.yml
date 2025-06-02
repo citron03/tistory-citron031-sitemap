@@ -1,0 +1,32 @@
+name: Update Sitemap
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # 매일 오전 9시 UTC (한국시간 18시)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate sitemap.xml
+        run: node generate-sitemap.js
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Update sitemap.xml" || echo "No changes"
+          git push

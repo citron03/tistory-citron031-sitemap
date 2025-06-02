@@ -1,0 +1,16 @@
+{
+  "name": "tistory-citron031-sitemap",
+  "version": "1.0.0",
+  "description": "https://citron031.tistory.com/ 블로그 사이트 맵",
+  "main": "generate-sitemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
