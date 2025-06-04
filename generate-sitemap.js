@@ -1,7 +1,15 @@
 import fs from 'fs';
 import Parser from 'rss-parser';
 
-const parser = new Parser();
+const parser = new Parser({
+  requestOptions: {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; RSSBot/1.0)',
+      'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8',
+    }
+  }
+});
+
 const rssUrl = 'https://citron031.tistory.com/rss';
 
 const genSitemap = async () => {
