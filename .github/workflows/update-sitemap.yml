@@ -23,10 +23,10 @@ jobs:
       - name: Generate sitemap.xml
         run: node generate-sitemap.js
 
-      - name: Commit & Push
+      - name: Push to main branch
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "citron03"
+          git config user.email "cchan0617@gmail.com"
           git add sitemap.xml
-          git commit -m "Update sitemap.xml" || echo "No changes"
-          git push
+          git commit -m "Update sitemap.xml"
+          git push https://x-access-token:${{ secrets.ACTION_TOKEN }}@github.com/citron03/tistory-citron031-sitemap.git HEAD:main
