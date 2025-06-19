@@ -6,6 +6,11 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
+    <loc>https://citron031.tistory.com/entry/Notes-from-reading-%F0%9F%94%96-You-Dont-Know-JS-Yet-6</loc>
+    <lastmod>2025-06-18T13:58:29.000Z</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://citron031.tistory.com/entry/Notes-from-reading-%F0%9F%94%96-You-Dont-Know-JS-Yet-5</loc>
     <lastmod>2025-06-11T13:35:32.000Z</lastmod>
     <priority>0.80</priority>
@@ -48,11 +53,6 @@
   <url>
     <loc>https://citron031.tistory.com/entry/%EC%8B%9C%EB%A9%98%ED%8B%B1-HTML-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%8D%A8%EB%B3%B4%EA%B8%B0-%F0%9F%A9%B6-semantic-html-tag</loc>
     <lastmod>2025-04-27T15:06:15.000Z</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://citron031.tistory.com/entry/React%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-HTML%EC%9D%84-%EC%A7%81%EC%A0%91-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0-dangerouslySetInnerHTML-%EC%82%AC%EC%9A%A9-%EC%98%88%EC%A0%9C</loc>
-    <lastmod>2025-04-20T11:02:40.000Z</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
