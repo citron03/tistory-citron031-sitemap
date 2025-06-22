@@ -6,6 +6,11 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
+    <loc>https://citron031.tistory.com/entry/%F0%9F%93%88-Tistory-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EA%B8%80-%EC%84%9C%EC%B9%98-%EC%97%94%EC%A7%84-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-robotstxt-sitemap-SEO</loc>
+    <lastmod>2025-06-21T15:24:22.000Z</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://citron031.tistory.com/entry/%F0%9F%A7%A9-Rspack-%EA%B8%B0%EB%B0%98-Module-Federation-HMR-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-React-%EA%B8%B0%EB%B0%98-MFE</loc>
     <lastmod>2025-06-19T13:23:27.000Z</lastmod>
     <priority>0.80</priority>
@@ -48,11 +53,6 @@
   <url>
     <loc>https://citron031.tistory.com/entry/Notes-from-reading-%F0%9F%94%96-You-Dont-Know-JS-Yet-2</loc>
     <lastmod>2025-05-14T12:00:11.000Z</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://citron031.tistory.com/entry/HTML-XPath-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD-%ED%99%9C%EC%9A%A9-%F0%9F%8E%B6</loc>
-    <lastmod>2025-05-09T13:11:19.000Z</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
