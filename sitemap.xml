@@ -6,6 +6,11 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
+    <loc>https://citron031.tistory.com/entry/FE-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%88%A0-Throttle-Debounce-useDeferredValue-useTransition-%EC%89%BD%EA%B2%8C-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-%F0%9F%98%8A</loc>
+    <lastmod>2025-07-20T15:03:41.000Z</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://citron031.tistory.com/entry/Controlled-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-UnControlled-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%F0%9F%98%8A-%EA%B3%B5%ED%86%B5-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B3%A0%EB%AF%BC%ED%95%B4%EB%B3%B4%EA%B8%B0</loc>
     <lastmod>2025-07-12T15:30:41.000Z</lastmod>
     <priority>0.80</priority>
@@ -48,11 +53,6 @@
   <url>
     <loc>https://citron031.tistory.com/entry/TypeScript%EC%97%90%EC%84%9C-string-%EC%9D%84-%EC%A0%9C%EC%99%B8%ED%95%9C-%EB%A6%AC%ED%84%B0%EB%9F%B4-%EC%9C%A0%EB%8B%88%EC%96%B8-%ED%83%80%EC%9E%85%EB%A7%8C-%EB%82%A8%EA%B8%B0%EA%B8%B0-%F0%9F%AB%A5</loc>
     <lastmod>2025-05-31T14:53:35.000Z</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://citron031.tistory.com/entry/Notes-from-reading-%F0%9F%94%96-You-Dont-Know-JS-Yet-3</loc>
-    <lastmod>2025-05-27T10:58:23.000Z</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
