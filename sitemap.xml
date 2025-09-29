@@ -6,6 +6,11 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
+    <loc>https://citron031.tistory.com/entry/%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-IndexedDB-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-%F0%9F%96%A5%EF%B8%8F</loc>
+    <lastmod>2025-09-28T15:02:43.000Z</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://citron031.tistory.com/entry/GitHub-Copilot%EA%B3%BC-MCP%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%9D%8C</loc>
     <lastmod>2025-09-13T14:37:54.000Z</lastmod>
     <priority>0.80</priority>
@@ -248,11 +253,6 @@
   <url>
     <loc>https://citron031.tistory.com/entry/requestIdleCallback-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EA%B0%80-idle%ED%95%A0-%EB%95%8C-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98%EB%A5%BC-%EB%8C%80%EA%B8%B0%EC%97%B4%EC%97%90-%F0%9F%91%8D</loc>
     <lastmod>2024-09-04T15:08:26.000Z</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://citron031.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Proxy-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-State-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90</loc>
-    <lastmod>2024-08-25T10:53:13.000Z</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
