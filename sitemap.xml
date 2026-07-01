@@ -6,6 +6,11 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
+    <loc>https://citron031.tistory.com/370</loc>
+    <lastmod>2026-06-30T15:19:42.000Z</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://citron031.tistory.com/369</loc>
     <lastmod>2026-06-26T13:42:44.000Z</lastmod>
     <priority>0.80</priority>
@@ -248,11 +253,6 @@
   <url>
     <loc>https://citron031.tistory.com/311</loc>
     <lastmod>2025-07-04T14:46:30.000Z</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://citron031.tistory.com/310</loc>
-    <lastmod>2025-06-28T04:11:47.000Z</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
